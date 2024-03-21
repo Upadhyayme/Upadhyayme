@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shreya upadhyay
+- 👀 I’m interested in coding and learning new things
+- 🌱 I’m currently learning backend devloping languages
+- 📫 How to reach me linkedln shreyaupadhyayhk
+- ⚡ Fun fact:I love cooking and eating as well

@@ -93,7 +93,9 @@ A passionate Full Stack Developer focused on backend development, machine learni
 </a>
 
 </p>
-## 🔥 GitHub Streak
+
+
+🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyayme&theme=tokyonight&hide_border=true" />

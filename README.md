@@ -10,6 +10,8 @@ A passionate Full Stack Developer focused on backend development, machine learni
 
 ---
 
+## 💫 About Me
+
 - 🔭 Currently working on  
   **[Full Stack Grocery Store Application](https://github.com/Upadhyayme/Grocery_Store.git)**
 
@@ -17,7 +19,7 @@ A passionate Full Stack Developer focused on backend development, machine learni
   **React, Full Stack Development & Advanced Machine Learning**
 
 - 👯 Looking to collaborate on  
-  **[AI-based Emotion Recognition System using Machine Learning](https://github.com/Upadhyayme/EmotionRecognition.git)**
+  **[AI-based Emotion Recognition System](https://github.com/Upadhyayme/EmotionRecognition.git)**
 
 - 🤝 Interested in  
   **Open Source Python Projects & Backend Optimization**
@@ -36,7 +38,7 @@ A passionate Full Stack Developer focused on backend development, machine learni
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/shreyaupadhyayhk" target="blank">
@@ -46,7 +48,7 @@ A passionate Full Stack Developer focused on backend development, machine learni
 
 ---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+## 🛠 Languages and Tools
 
 <p align="left">
 
@@ -58,12 +60,12 @@ A passionate Full Stack Developer focused on backend development, machine learni
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -94,14 +96,20 @@ A passionate Full Stack Developer focused on backend development, machine learni
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upadhyayme&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=upadhyayme&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayme&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
-<br><br><br><br><br><br><br><br><br>
+---
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyayme&theme=tokyonight" alt="streak stats" />
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyayme&theme=tokyonight&hide_border=true" />
 </p>

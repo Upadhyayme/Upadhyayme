@@ -93,21 +93,6 @@ A passionate Full Stack Developer focused on backend development, machine learni
 </a>
 
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=upadhyayme&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayme&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
